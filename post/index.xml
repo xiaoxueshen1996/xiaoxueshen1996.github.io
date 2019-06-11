@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Blog</title>
+    <title>Posts on 小学深</title>
     <link>https://xiaoxueshen1996.github.io/post/</link>
-    <description>Recent content in Posts on Hugo Blog</description>
+    <description>Recent content in Posts on 小学深</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 23:43:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:13:23 +0800</lastBuildDate>
     
 	<atom:link href="https://xiaoxueshen1996.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ste</title>
+      <link>https://xiaoxueshen1996.github.io/post/ste/</link>
+      <pubDate>Wed, 12 Jun 2019 00:13:23 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/post/ste/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>News</title>
