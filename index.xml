@@ -2,21 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小学深</title>
-    <link>https://xxs1996.com/</link>
+    <link>https://xiaoxueshen1996.github.io/</link>
     <description>Recent content on 小学深</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 23:56:23 +0800</lastBuildDate>
     
-	<atom:link href="https://xxs1996.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaoxueshen1996.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Tet</title>
+      <link>https://xiaoxueshen1996.github.io/tet/</link>
+      <pubDate>Wed, 12 Jun 2019 23:56:23 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/tet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ste</title>
+      <link>https://xiaoxueshen1996.github.io/post/ste/</link>
+      <pubDate>Wed, 12 Jun 2019 00:13:23 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/post/ste/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://xiaoxueshen1996.github.io/post/news/</link>
+      <pubDate>Tue, 11 Jun 2019 23:43:17 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/post/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://xiaoxueshen1996.github.io/post/test/</link>
+      <pubDate>Tue, 11 Jun 2019 22:09:57 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/post/test/</guid>
+      <description>#test wefwerwrqerqwreqwerqwer</description>
+    </item>
+    
+    <item>
+      <title>第一篇文章</title>
+      <link>https://xiaoxueshen1996.github.io/post/blog/</link>
+      <pubDate>Tue, 11 Jun 2019 19:27:19 +0800</pubDate>
+      
+      <guid>https://xiaoxueshen1996.github.io/post/blog/</guid>
+      <description>#荣耀magicbook装linux（manjaro）无脑教程</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://xxs1996.com/about/</link>
+      <link>https://xiaoxueshen1996.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xxs1996.com/about/</guid>
+      <guid>https://xiaoxueshen1996.github.io/about/</guid>
       <description>#关于我 小学深不是小学生，一个喜欢java的菜鸟程序员</description>
     </item>
     

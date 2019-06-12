@@ -3,21 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xxs1996.com/about/</loc>
+    <loc>https://xiaoxueshen1996.github.io/tet/</loc>
+    <lastmod>2019-06-12T23:56:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xxs1996.com/categories/</loc>
+    <loc>https://xiaoxueshen1996.github.io/</loc>
+    <lastmod>2019-06-12T23:56:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xxs1996.com/tags/</loc>
+    <loc>https://xiaoxueshen1996.github.io/post/</loc>
+    <lastmod>2019-06-12T00:13:23+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xxs1996.com/</loc>
+    <loc>https://xiaoxueshen1996.github.io/post/ste/</loc>
+    <lastmod>2019-06-12T00:13:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/tags/</loc>
+    <lastmod>2019-06-12T00:13:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/tags/taga/</loc>
+    <lastmod>2019-06-12T00:13:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/tags/tagb/</loc>
+    <lastmod>2019-06-12T00:13:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/post/news/</loc>
+    <lastmod>2019-06-11T23:43:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/post/test/</loc>
+    <lastmod>2019-06-11T22:09:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/post/blog/</loc>
+    <lastmod>2019-06-11T19:27:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxueshen1996.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
